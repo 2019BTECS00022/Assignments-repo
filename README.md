@@ -1,2 +1,28 @@
 # Assignments-repo
 Assignments related to engg
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+#All assignments and codes pdfs/ppts/notes/study materials in one repo.#
+*
+*
+*
+
+1. First year
+2. Second year
+3. Third year
+4. Final year
+
+*
+*
+*
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
